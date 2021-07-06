@@ -1,0 +1,20 @@
+.CalculatorHistory{
+    width: 20vw;
+        border: 1px solid;
+  
+
+}
+.CalculatorHistory h5{
+    color: red;
+}
+.CalculatorHistory p{
+width: 80%;
+}
+
+.root{
+      overflow: 'auto'!important;
+      max-height: 60vh !important;
+}
+.MuiList-root{
+    overflow: auto !important;
+}

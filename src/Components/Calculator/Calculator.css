@@ -1,0 +1,11 @@
+.TheCalculator{
+    display: flex;
+    flex-direction: column;
+}
+.calculationAndHistoryDiv{
+      display: flex;
+    flex-direction: row;
+}
+.calculationDiv{
+    width: 100% !important;
+}
